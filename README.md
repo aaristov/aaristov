@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Andrey @aaristov Aristov
 - 👀 I’m interested in accelerating scientific data processing
-- 🌱 I’m currently learning big data processing and visual tools like napari
-- 💞️ I’m looking to collaborate on interactive tools.
-- 📫 How to reach me: dm me on twitter @_hrun_
+- 🌱 I’m currently builidng Awdacity:  web tools for big data processing and visual in microscopy
+- 💞️ I’m looking like-minded developers willing to contribute to Awdacity vision
+- 📫 How to reach me: drop me an email or in linkedin
 
 <!---
 aaristov/aaristov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
